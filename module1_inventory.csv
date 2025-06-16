@@ -1,0 +1,201 @@
+batch_id,product_name,quantity,entry_date,shelf_life_days,storage_type,current_status
+1,Spinach,45,2024-12-29,6,Chilled,Expired
+2,Tomatoes,23,2025-01-27,13,Chilled,Expired
+3,Spinach,64,2025-04-19,10,Chilled,Expired
+4,Carrots,39,2024-12-08,10,Dehydrated,Expired
+5,Mangoes,93,2024-12-07,40,Dehydrated,Expired
+6,Spinach,67,2025-04-19,31,Dehydrated,Expired
+7,Mangoes,30,2025-02-10,56,Dehydrated,Expired
+8,Spinach,29,2025-03-19,26,Frozen,Expired
+9,Tomatoes,58,2025-02-25,11,Dehydrated,Expired
+10,Carrots,87,2025-03-02,59,Frozen,Expired
+11,Chicken Breast,78,2024-12-12,51,Frozen,Expired
+12,Carrots,47,2025-03-07,10,Chilled,Expired
+13,Bell Pepper,100,2025-03-03,41,Dehydrated,Expired
+14,Carrots,47,2024-12-12,47,Dehydrated,Expired
+15,Carrots,58,2025-01-29,60,Dehydrated,Expired
+16,Chicken Breast,30,2025-03-27,45,Frozen,Expired
+17,Chicken Breast,44,2025-03-01,18,Chilled,Expired
+18,Spinach,31,2024-12-19,43,Chilled,Expired
+19,Mangoes,58,2025-02-01,15,Frozen,Expired
+20,Chicken Breast,51,2025-04-22,19,Chilled,Expired
+21,Bell Pepper,50,2024-12-15,19,Dehydrated,Expired
+22,Fish Fillet,82,2025-02-07,9,Dehydrated,Expired
+23,Spinach,73,2025-02-19,18,Chilled,Expired
+24,Fish Fillet,27,2025-03-28,14,Frozen,Expired
+25,Tomatoes,84,2025-04-23,39,Frozen,Expiring Soon
+26,Fish Fillet,38,2025-04-29,30,Frozen,Expiring Soon
+27,Tomatoes,16,2025-04-10,36,Dehydrated,Expired
+28,Bell Pepper,30,2024-12-29,14,Chilled,Expired
+29,Bell Pepper,59,2025-03-19,43,Dehydrated,Expired
+30,Fish Fillet,80,2025-03-30,38,Frozen,Expired
+31,Bell Pepper,24,2024-12-03,48,Chilled,Expired
+32,Spinach,92,2025-04-17,53,Frozen,Safe
+33,Chicken Breast,30,2024-12-29,23,Frozen,Expired
+34,Fish Fillet,43,2024-12-01,51,Chilled,Expired
+35,Mangoes,90,2025-01-15,37,Dehydrated,Expired
+36,Chicken Breast,29,2025-04-09,43,Dehydrated,Expired
+37,Chicken Breast,10,2025-01-11,39,Chilled,Expired
+38,Mangoes,24,2025-02-21,36,Dehydrated,Expired
+39,Chicken Breast,40,2025-02-17,20,Dehydrated,Expired
+40,Mangoes,72,2024-12-21,10,Chilled,Expired
+41,Bell Pepper,26,2024-12-18,53,Chilled,Expired
+42,Tomatoes,43,2025-04-01,40,Dehydrated,Expired
+43,Mangoes,98,2025-03-19,18,Chilled,Expired
+44,Tomatoes,93,2025-02-18,30,Chilled,Expired
+45,Chicken Breast,25,2025-03-23,38,Frozen,Expired
+46,Tomatoes,12,2025-01-27,9,Frozen,Expired
+47,Mangoes,38,2025-04-21,19,Chilled,Expired
+48,Carrots,17,2024-12-19,50,Chilled,Expired
+49,Tomatoes,19,2024-12-18,7,Frozen,Expired
+50,Mangoes,72,2025-01-30,22,Chilled,Expired
+51,Tomatoes,83,2025-04-18,13,Chilled,Expired
+52,Mangoes,62,2025-04-01,20,Frozen,Expired
+53,Tomatoes,65,2024-12-25,11,Chilled,Expired
+54,Chicken Breast,16,2025-03-19,31,Frozen,Expired
+55,Spinach,53,2024-12-26,8,Frozen,Expired
+56,Bell Pepper,34,2024-12-28,20,Dehydrated,Expired
+57,Mangoes,33,2025-03-25,13,Frozen,Expired
+58,Chicken Breast,66,2025-03-29,20,Dehydrated,Expired
+59,Bell Pepper,93,2025-04-20,11,Dehydrated,Expired
+60,Mangoes,31,2024-12-04,10,Dehydrated,Expired
+61,Fish Fillet,61,2025-04-04,35,Dehydrated,Expired
+62,Carrots,59,2025-01-12,29,Dehydrated,Expired
+63,Chicken Breast,99,2025-03-27,23,Frozen,Expired
+64,Spinach,72,2025-04-22,47,Chilled,Safe
+65,Tomatoes,17,2025-01-18,23,Dehydrated,Expired
+66,Mangoes,50,2025-04-18,8,Chilled,Expired
+67,Carrots,74,2024-12-13,42,Frozen,Expired
+68,Bell Pepper,75,2025-04-15,15,Dehydrated,Expired
+69,Carrots,18,2025-01-17,9,Chilled,Expired
+70,Spinach,82,2025-01-30,30,Dehydrated,Expired
+71,Tomatoes,89,2025-04-28,43,Dehydrated,Safe
+72,Carrots,82,2025-03-18,47,Chilled,Expired
+73,Mangoes,95,2025-02-19,21,Dehydrated,Expired
+74,Spinach,60,2025-02-19,20,Frozen,Expired
+75,Tomatoes,19,2025-02-15,34,Frozen,Expired
+76,Carrots,22,2025-03-28,44,Chilled,Expired
+77,Carrots,43,2025-04-17,18,Chilled,Expired
+78,Tomatoes,57,2025-02-28,9,Dehydrated,Expired
+79,Chicken Breast,100,2025-01-10,33,Chilled,Expired
+80,Chicken Breast,80,2025-04-15,5,Chilled,Expired
+81,Chicken Breast,24,2024-12-27,13,Frozen,Expired
+82,Carrots,46,2025-04-21,14,Frozen,Expired
+83,Mangoes,36,2025-01-23,50,Frozen,Expired
+84,Spinach,42,2025-02-06,37,Frozen,Expired
+85,Bell Pepper,64,2024-12-14,10,Chilled,Expired
+86,Bell Pepper,52,2025-02-09,7,Dehydrated,Expired
+87,Bell Pepper,30,2025-01-03,45,Frozen,Expired
+88,Spinach,64,2025-03-24,40,Chilled,Expired
+89,Mangoes,98,2024-12-03,12,Dehydrated,Expired
+90,Tomatoes,84,2025-04-19,7,Frozen,Expired
+91,Mangoes,15,2025-01-07,32,Dehydrated,Expired
+92,Chicken Breast,55,2025-03-04,55,Dehydrated,Expired
+93,Tomatoes,55,2025-02-02,47,Dehydrated,Expired
+94,Bell Pepper,89,2025-04-23,60,Frozen,Safe
+95,Spinach,32,2025-01-09,20,Dehydrated,Expired
+96,Fish Fillet,52,2024-12-07,16,Chilled,Expired
+97,Bell Pepper,41,2025-03-16,56,Chilled,Expired
+98,Chicken Breast,23,2025-01-10,55,Chilled,Expired
+99,Fish Fillet,38,2024-12-10,59,Frozen,Expired
+100,Tomatoes,39,2025-03-28,27,Frozen,Expired
+101,Tomatoes,61,2024-12-07,47,Dehydrated,Expired
+102,Chicken Breast,45,2025-02-10,60,Dehydrated,Expired
+103,Chicken Breast,78,2025-04-10,30,Chilled,Expired
+104,Chicken Breast,32,2024-12-08,12,Frozen,Expired
+105,Mangoes,86,2025-02-06,7,Dehydrated,Expired
+106,Fish Fillet,65,2025-02-27,51,Frozen,Expired
+107,Mangoes,83,2025-04-10,12,Frozen,Expired
+108,Tomatoes,65,2025-02-04,7,Chilled,Expired
+109,Carrots,97,2025-04-13,56,Chilled,Safe
+110,Spinach,18,2025-01-20,28,Frozen,Expired
+111,Spinach,94,2025-02-23,44,Frozen,Expired
+112,Bell Pepper,74,2025-01-01,51,Frozen,Expired
+113,Chicken Breast,99,2025-03-15,25,Frozen,Expired
+114,Chicken Breast,63,2025-04-21,13,Dehydrated,Expired
+115,Spinach,32,2025-03-08,48,Chilled,Expired
+116,Mangoes,80,2025-04-25,24,Frozen,Expired
+117,Bell Pepper,36,2024-12-01,24,Frozen,Expired
+118,Fish Fillet,51,2025-04-28,43,Chilled,Safe
+119,Fish Fillet,37,2025-03-24,33,Chilled,Expired
+120,Mangoes,31,2025-04-01,55,Chilled,Expired
+121,Spinach,94,2024-12-22,23,Chilled,Expired
+122,Spinach,96,2025-02-24,10,Dehydrated,Expired
+123,Chicken Breast,28,2025-01-27,56,Dehydrated,Expired
+124,Carrots,88,2024-12-12,20,Frozen,Expired
+125,Bell Pepper,90,2024-12-19,34,Frozen,Expired
+126,Mangoes,59,2025-01-19,50,Chilled,Expired
+127,Fish Fillet,93,2025-03-13,20,Dehydrated,Expired
+128,Spinach,64,2024-12-02,53,Dehydrated,Expired
+129,Tomatoes,76,2025-01-15,56,Chilled,Expired
+130,Fish Fillet,25,2024-12-13,40,Dehydrated,Expired
+131,Fish Fillet,95,2025-01-04,56,Frozen,Expired
+132,Mangoes,66,2025-04-23,43,Frozen,Safe
+133,Mangoes,67,2025-04-09,32,Chilled,Expired
+134,Tomatoes,41,2025-04-01,33,Frozen,Expired
+135,Bell Pepper,72,2025-02-09,54,Chilled,Expired
+136,Spinach,19,2025-01-31,22,Frozen,Expired
+137,Spinach,52,2025-02-12,20,Frozen,Expired
+138,Chicken Breast,29,2025-04-18,10,Dehydrated,Expired
+139,Tomatoes,100,2025-03-09,49,Dehydrated,Expired
+140,Tomatoes,52,2024-12-17,31,Frozen,Expired
+141,Mangoes,36,2025-03-30,31,Dehydrated,Expired
+142,Bell Pepper,99,2025-03-18,29,Chilled,Expired
+143,Carrots,10,2025-04-27,29,Frozen,Expired
+144,Chicken Breast,63,2025-02-15,53,Frozen,Expired
+145,Mangoes,38,2025-04-19,56,Chilled,Safe
+146,Fish Fillet,72,2025-01-26,22,Frozen,Expired
+147,Carrots,96,2025-03-10,26,Chilled,Expired
+148,Bell Pepper,69,2025-03-14,51,Dehydrated,Expired
+149,Tomatoes,85,2025-04-16,6,Frozen,Expired
+150,Mangoes,64,2024-12-07,10,Chilled,Expired
+151,Tomatoes,43,2025-03-29,16,Dehydrated,Expired
+152,Fish Fillet,51,2025-02-22,18,Frozen,Expired
+153,Chicken Breast,42,2025-03-08,22,Frozen,Expired
+154,Bell Pepper,79,2024-12-21,35,Dehydrated,Expired
+155,Carrots,18,2025-02-28,19,Chilled,Expired
+156,Bell Pepper,41,2024-12-11,53,Dehydrated,Expired
+157,Tomatoes,40,2024-12-06,44,Dehydrated,Expired
+158,Tomatoes,82,2025-04-01,47,Dehydrated,Expired
+159,Tomatoes,57,2025-03-30,49,Frozen,Expired
+160,Tomatoes,49,2024-12-30,54,Dehydrated,Expired
+161,Carrots,83,2025-04-28,6,Frozen,Expired
+162,Spinach,35,2025-03-07,30,Chilled,Expired
+163,Carrots,41,2025-05-01,49,Chilled,Safe
+164,Carrots,86,2025-02-16,59,Chilled,Expired
+165,Bell Pepper,15,2024-12-31,55,Chilled,Expired
+166,Chicken Breast,57,2025-04-16,32,Chilled,Expired
+167,Carrots,11,2025-04-09,46,Frozen,Expired
+168,Bell Pepper,23,2025-03-18,57,Frozen,Expired
+169,Fish Fillet,100,2025-03-03,45,Frozen,Expired
+170,Tomatoes,76,2025-03-22,16,Chilled,Expired
+171,Spinach,71,2025-02-08,44,Chilled,Expired
+172,Fish Fillet,85,2025-03-22,57,Chilled,Expired
+173,Chicken Breast,21,2025-02-21,59,Dehydrated,Expired
+174,Chicken Breast,82,2025-03-26,20,Frozen,Expired
+175,Mangoes,73,2025-03-08,26,Dehydrated,Expired
+176,Bell Pepper,37,2025-02-22,16,Frozen,Expired
+177,Chicken Breast,86,2025-02-05,26,Frozen,Expired
+178,Spinach,76,2025-02-09,40,Dehydrated,Expired
+179,Tomatoes,62,2024-12-22,20,Chilled,Expired
+180,Fish Fillet,98,2025-04-22,53,Dehydrated,Safe
+181,Fish Fillet,21,2025-04-05,33,Dehydrated,Expired
+182,Chicken Breast,41,2025-01-26,30,Chilled,Expired
+183,Chicken Breast,80,2025-04-28,28,Frozen,Expired
+184,Mangoes,80,2025-02-27,32,Chilled,Expired
+185,Chicken Breast,44,2025-03-01,49,Frozen,Expired
+186,Chicken Breast,34,2025-02-03,19,Dehydrated,Expired
+187,Chicken Breast,98,2024-12-31,52,Chilled,Expired
+188,Tomatoes,71,2025-01-19,18,Chilled,Expired
+189,Chicken Breast,86,2025-04-30,53,Chilled,Safe
+190,Chicken Breast,47,2024-12-26,58,Dehydrated,Expired
+191,Tomatoes,11,2025-03-03,16,Frozen,Expired
+192,Spinach,15,2025-04-16,13,Frozen,Expired
+193,Carrots,26,2025-04-21,23,Chilled,Expired
+194,Spinach,83,2025-04-05,11,Dehydrated,Expired
+195,Chicken Breast,53,2025-03-31,35,Frozen,Expired
+196,Tomatoes,24,2024-12-14,21,Frozen,Expired
+197,Bell Pepper,19,2024-12-17,30,Frozen,Expired
+198,Mangoes,82,2024-12-14,14,Dehydrated,Expired
+199,Chicken Breast,81,2024-12-22,20,Dehydrated,Expired
+200,Bell Pepper,89,2025-03-17,43,Chilled,Expired

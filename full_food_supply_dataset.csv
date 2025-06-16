@@ -1,0 +1,206 @@
+Product_ID,Product_Name,Category,Quantity_kg,Price_per_kg,Discounted_Price,Supplier_Type,Quality_Score,Shelf_Life_Days,Status,Upload_Date,Expiry_Date,Quality_Score_Num,Discount_Rate,Price_per_kg_num,Discounted_Price_num
+1001,Apples,Fruit,57,36 INR,10 INR,Local Factory,5/10,2,Available,,,5.0,26.0,36.0,10.0
+1002,Beef,Meat,148,98 INR,25 INR,Retailer,7/10,8,Available,,,7.0,73.0,98.0,25.0
+1003,Fish,Meat,414,40 INR,36 INR,Retailer,8/10,10,Available,,,8.0,4.0,40.0,36.0
+1004,Cheese,Dairy,235,24 INR,3 INR,Farmer,6/10,9,Available,,,6.0,21.0,24.0,3.0
+1005,Bananas,Fruit,170,45 INR,38 INR,Retailer,5/10,2,Available,,,5.0,7.0,45.0,38.0
+1006,Barley,Grain,387,71 INR,11 INR,Farmer,9/10,10,Available,,,9.0,60.0,71.0,11.0
+1007,Wheat,Grain,28,19 INR,10 INR,Farmer,5/10,9,Available,,,5.0,9.0,19.0,10.0
+1008,Butter,Dairy,175,17 INR,8 INR,Farmer,10/10,5,Sold Out,,,10.0,9.0,17.0,8.0
+1009,Cheese,Dairy,468,25 INR,7 INR,Local Factory,7/10,2,Sold Out,,,7.0,18.0,25.0,7.0
+1010,Oats,Grain,205,32 INR,19 INR,Farmer,9/10,1,Sold Out,,,9.0,13.0,32.0,19.0
+1011,Beef,Meat,298,59 INR,39 INR,Local Factory,7/10,8,Available,,,7.0,20.0,59.0,39.0
+1012,Grapes,Fruit,317,81 INR,6 INR,Retailer,10/10,1,Sold Out,,,10.0,75.0,81.0,6.0
+1013,Mangoes,Fruit,336,34 INR,6 INR,Farmer,6/10,8,Available,,,6.0,28.0,34.0,6.0
+1014,Pork,Meat,492,77 INR,70 INR,Distributor,10/10,3,Sold Out,,,10.0,7.0,77.0,70.0
+1015,Oranges,Fruit,357,54 INR,26 INR,Local Factory,7/10,3,Available,,,7.0,28.0,54.0,26.0
+1016,Grapes,Fruit,99,50 INR,40 INR,Farmer,7/10,2,Sold Out,,,7.0,10.0,50.0,40.0
+1017,Mangoes,Fruit,492,16 INR,12 INR,Importer,4/10,6,Available,,,4.0,4.0,16.0,12.0
+1018,Rice,Grain,95,26 INR,22 INR,Retailer,6/10,7,Sold Out,,,6.0,4.0,26.0,22.0
+1019,Yogurt,Dairy,129,14 INR,13 INR,Distributor,5/10,9,Available,,,5.0,1.0,14.0,13.0
+1020,Fish,Meat,201,91 INR,4 INR,Importer,7/10,6,Available,,,7.0,87.0,91.0,4.0
+1021,Grapes,Fruit,187,86 INR,85 INR,Farmer,8/10,9,Available,,,8.0,1.0,86.0,85.0
+1022,Barley,Grain,427,65 INR,2 INR,Importer,6/10,3,Sold Out,,,6.0,63.0,65.0,2.0
+1023,Grapes,Fruit,88,26 INR,9 INR,Farmer,5/10,7,Available,,,5.0,17.0,26.0,9.0
+1024,Pork,Meat,67,76 INR,27 INR,Retailer,4/10,1,Available,,,4.0,49.0,76.0,27.0
+1025,Yogurt,Dairy,62,27 INR,19 INR,Importer,4/10,8,Available,,,4.0,8.0,27.0,19.0
+1026,Bananas,Fruit,401,44 INR,41 INR,Importer,7/10,5,Available,,,7.0,3.0,44.0,41.0
+1027,Carrots,Vegetable,396,65 INR,56 INR,Retailer,6/10,9,Available,,,6.0,9.0,65.0,56.0
+1028,Cabbage,Vegetable,445,78 INR,4 INR,Farmer,10/10,5,Available,,,10.0,74.0,78.0,4.0
+1029,Lamb,Meat,393,60 INR,52 INR,Local Factory,5/10,1,Available,,,5.0,8.0,60.0,52.0
+1030,Yogurt,Dairy,391,67 INR,43 INR,Local Factory,6/10,2,Available,,,6.0,24.0,67.0,43.0
+1031,Potatoes,Vegetable,378,86 INR,76 INR,Local Factory,5/10,2,Available,,,5.0,10.0,86.0,76.0
+1032,Apples,Fruit,73,76 INR,12 INR,Retailer,4/10,4,Available,,,4.0,64.0,76.0,12.0
+1033,Pork,Meat,172,60 INR,1 INR,Distributor,9/10,1,Sold Out,,,9.0,59.0,60.0,1.0
+1034,Oranges,Fruit,277,35 INR,25 INR,Farmer,7/10,9,Sold Out,,,7.0,10.0,35.0,25.0
+1035,Cheese,Dairy,255,96 INR,93 INR,Retailer,4/10,10,Available,,,4.0,3.0,96.0,93.0
+1036,Corn,Grain,41,81 INR,41 INR,Distributor,8/10,5,Sold Out,,,8.0,40.0,81.0,41.0
+1037,Oats,Grain,366,58 INR,25 INR,Importer,8/10,5,Sold Out,,,8.0,33.0,58.0,25.0
+1038,Spinach,Vegetable,86,14 INR,13 INR,Local Factory,10/10,6,Available,,,10.0,1.0,14.0,13.0
+1039,Yogurt,Dairy,479,38 INR,10 INR,Farmer,5/10,4,Sold Out,,,5.0,28.0,38.0,10.0
+1040,Cream,Dairy,295,54 INR,8 INR,Retailer,8/10,5,Available,,,8.0,46.0,54.0,8.0
+1041,Potatoes,Vegetable,191,91 INR,25 INR,Retailer,6/10,1,Sold Out,,,6.0,66.0,91.0,25.0
+1042,Chicken,Meat,196,67 INR,62 INR,Local Factory,7/10,4,Available,,,7.0,5.0,67.0,62.0
+1043,Wheat,Grain,302,21 INR,15 INR,Farmer,9/10,9,Available,,,9.0,6.0,21.0,15.0
+1044,Yogurt,Dairy,466,80 INR,22 INR,Farmer,6/10,1,Available,,,6.0,58.0,80.0,22.0
+1045,Cheese,Dairy,253,69 INR,49 INR,Farmer,8/10,10,Available,,,8.0,20.0,69.0,49.0
+1046,Cabbage,Vegetable,133,37 INR,5 INR,Farmer,7/10,7,Available,,,7.0,32.0,37.0,5.0
+1047,Yogurt,Dairy,160,60 INR,55 INR,Farmer,4/10,4,Available,,,4.0,5.0,60.0,55.0
+1048,Wheat,Grain,104,53 INR,41 INR,Distributor,5/10,2,Available,,,5.0,12.0,53.0,41.0
+1049,Lamb,Meat,313,91 INR,59 INR,Retailer,9/10,3,Available,,,9.0,32.0,91.0,59.0
+1050,Bananas,Fruit,476,89 INR,42 INR,Retailer,8/10,4,Available,,,8.0,47.0,89.0,42.0
+1051,Cream,Dairy,374,46 INR,43 INR,Distributor,5/10,10,Available,,,5.0,3.0,46.0,43.0
+1052,Barley,Grain,491,13 INR,4 INR,Importer,5/10,1,Available,,,5.0,9.0,13.0,4.0
+1053,Mangoes,Fruit,460,50 INR,48 INR,Local Factory,8/10,2,Sold Out,,,8.0,2.0,50.0,48.0
+1054,Oats,Grain,201,79 INR,35 INR,Local Factory,8/10,5,Sold Out,,,8.0,44.0,79.0,35.0
+1055,Pork,Meat,331,45 INR,32 INR,Distributor,9/10,3,Available,,,9.0,13.0,45.0,32.0
+1056,Lamb,Meat,271,96 INR,68 INR,Farmer,7/10,4,Sold Out,,,7.0,28.0,96.0,68.0
+1057,Chicken,Meat,32,98 INR,24 INR,Local Factory,8/10,8,Available,,,8.0,74.0,98.0,24.0
+1058,Butter,Dairy,268,12 INR,8 INR,Farmer,4/10,3,Sold Out,,,4.0,4.0,12.0,8.0
+1059,Potatoes,Vegetable,489,27 INR,14 INR,Importer,10/10,10,Available,,,10.0,13.0,27.0,14.0
+1060,Mangoes,Fruit,464,82 INR,76 INR,Retailer,7/10,6,Sold Out,,,7.0,6.0,82.0,76.0
+1061,Wheat,Grain,398,79 INR,9 INR,Importer,8/10,6,Available,,,8.0,70.0,79.0,9.0
+1062,Yogurt,Dairy,206,76 INR,4 INR,Distributor,7/10,3,Sold Out,,,7.0,72.0,76.0,4.0
+1063,Barley,Grain,282,37 INR,16 INR,Importer,7/10,5,Available,,,7.0,21.0,37.0,16.0
+1064,Barley,Grain,145,63 INR,46 INR,Importer,10/10,3,Available,,,10.0,17.0,63.0,46.0
+1065,Tomatoes,Vegetable,141,99 INR,52 INR,Farmer,9/10,2,Available,,,9.0,47.0,99.0,52.0
+1066,Oats,Grain,382,79 INR,21 INR,Importer,4/10,7,Sold Out,,,4.0,58.0,79.0,21.0
+1067,Oats,Grain,410,39 INR,13 INR,Retailer,9/10,6,Sold Out,,,9.0,26.0,39.0,13.0
+1068,Cream,Dairy,403,59 INR,11 INR,Local Factory,8/10,2,Available,,,8.0,48.0,59.0,11.0
+1069,Yogurt,Dairy,356,72 INR,41 INR,Distributor,5/10,2,Available,,,5.0,31.0,72.0,41.0
+1070,Wheat,Grain,165,15 INR,3 INR,Retailer,8/10,10,Available,,,8.0,12.0,15.0,3.0
+1071,Corn,Grain,486,12 INR,8 INR,Farmer,8/10,10,Sold Out,,,8.0,4.0,12.0,8.0
+1072,Potatoes,Vegetable,369,63 INR,30 INR,Farmer,6/10,6,Available,,,6.0,33.0,63.0,30.0
+1073,Barley,Grain,11,36 INR,6 INR,Importer,4/10,4,Available,,,4.0,30.0,36.0,6.0
+1074,Butter,Dairy,442,69 INR,38 INR,Importer,5/10,4,Available,,,5.0,31.0,69.0,38.0
+1075,Oats,Grain,367,22 INR,21 INR,Local Factory,7/10,5,Available,,,7.0,1.0,22.0,21.0
+1076,Oranges,Fruit,349,75 INR,12 INR,Distributor,5/10,1,Sold Out,,,5.0,63.0,75.0,12.0
+1077,Grapes,Fruit,396,43 INR,6 INR,Distributor,9/10,1,Available,,,9.0,37.0,43.0,6.0
+1078,Cabbage,Vegetable,138,51 INR,37 INR,Importer,4/10,7,Sold Out,,,4.0,14.0,51.0,37.0
+1079,Mangoes,Fruit,340,76 INR,38 INR,Retailer,7/10,10,Available,,,7.0,38.0,76.0,38.0
+1080,Carrots,Vegetable,497,77 INR,16 INR,Importer,9/10,7,Sold Out,,,9.0,61.0,77.0,16.0
+1081,Beef,Meat,421,77 INR,31 INR,Retailer,5/10,6,Available,,,5.0,46.0,77.0,31.0
+1082,Oats,Grain,481,50 INR,23 INR,Retailer,8/10,6,Available,,,8.0,27.0,50.0,23.0
+1083,Oats,Grain,208,38 INR,3 INR,Distributor,6/10,10,Sold Out,,,6.0,35.0,38.0,3.0
+1084,Apples,Fruit,246,21 INR,14 INR,Distributor,4/10,8,Available,,,4.0,7.0,21.0,14.0
+1085,Carrots,Vegetable,97,92 INR,42 INR,Retailer,5/10,8,Sold Out,,,5.0,50.0,92.0,42.0
+1086,Cheese,Dairy,49,70 INR,20 INR,Farmer,7/10,5,Sold Out,,,7.0,50.0,70.0,20.0
+1087,Beef,Meat,446,69 INR,64 INR,Local Factory,4/10,9,Available,,,4.0,5.0,69.0,64.0
+1088,Bananas,Fruit,487,69 INR,13 INR,Importer,8/10,7,Available,,,8.0,56.0,69.0,13.0
+1089,Tomatoes,Vegetable,217,70 INR,27 INR,Farmer,4/10,4,Available,,,4.0,43.0,70.0,27.0
+1090,Beef,Meat,211,37 INR,19 INR,Distributor,5/10,5,Sold Out,,,5.0,18.0,37.0,19.0
+1091,Chicken,Meat,326,11 INR,10 INR,Farmer,4/10,2,Available,,,4.0,1.0,11.0,10.0
+1092,Oats,Grain,157,11 INR,6 INR,Farmer,7/10,5,Available,,,7.0,5.0,11.0,6.0
+1093,Cheese,Dairy,114,88 INR,73 INR,Retailer,8/10,10,Available,,,8.0,15.0,88.0,73.0
+1094,Spinach,Vegetable,352,98 INR,18 INR,Farmer,4/10,4,Sold Out,,,4.0,80.0,98.0,18.0
+1095,Corn,Grain,440,17 INR,7 INR,Importer,8/10,4,Available,,,8.0,10.0,17.0,7.0
+1096,Fish,Meat,472,45 INR,39 INR,Local Factory,8/10,7,Available,,,8.0,6.0,45.0,39.0
+1097,Fish,Meat,182,60 INR,41 INR,Local Factory,5/10,9,Available,,,5.0,19.0,60.0,41.0
+1098,Pork,Meat,306,38 INR,29 INR,Farmer,7/10,10,Available,,,7.0,9.0,38.0,29.0
+1099,Pork,Meat,140,68 INR,39 INR,Local Factory,5/10,10,Available,,,5.0,29.0,68.0,39.0
+1100,Oats,Grain,60,92 INR,27 INR,Retailer,6/10,1,Available,,,6.0,65.0,92.0,27.0
+1101,Cabbage,Vegetable,209,91 INR,71 INR,Local Factory,8/10,6,Available,,,8.0,20.0,91.0,71.0
+1102,Mangoes,Fruit,92,49 INR,4 INR,Retailer,5/10,8,Available,,,5.0,45.0,49.0,4.0
+1103,Cream,Dairy,35,38 INR,27 INR,Distributor,7/10,6,Available,,,7.0,11.0,38.0,27.0
+1104,Cabbage,Vegetable,13,53 INR,43 INR,Distributor,6/10,3,Available,,,6.0,10.0,53.0,43.0
+1105,Oranges,Fruit,483,96 INR,92 INR,Local Factory,10/10,1,Sold Out,,,10.0,4.0,96.0,92.0
+1106,Cabbage,Vegetable,312,29 INR,5 INR,Importer,7/10,10,Available,,,7.0,24.0,29.0,5.0
+1107,Carrots,Vegetable,366,11 INR,8 INR,Distributor,6/10,10,Available,,,6.0,3.0,11.0,8.0
+1108,Cabbage,Vegetable,262,16 INR,15 INR,Distributor,4/10,9,Available,,,4.0,1.0,16.0,15.0
+1109,Apples,Fruit,298,97 INR,49 INR,Retailer,6/10,9,Available,,,6.0,48.0,97.0,49.0
+1110,Spinach,Vegetable,108,52 INR,18 INR,Distributor,7/10,5,Available,,,7.0,34.0,52.0,18.0
+1111,Cheese,Dairy,35,60 INR,57 INR,Farmer,8/10,4,Available,,,8.0,3.0,60.0,57.0
+1112,Apples,Fruit,177,81 INR,64 INR,Farmer,6/10,3,Available,,,6.0,17.0,81.0,64.0
+1113,Butter,Dairy,270,30 INR,20 INR,Local Factory,5/10,9,Available,,,5.0,10.0,30.0,20.0
+1114,Spinach,Vegetable,234,17 INR,3 INR,Retailer,10/10,2,Sold Out,,,10.0,14.0,17.0,3.0
+1115,Cabbage,Vegetable,424,35 INR,3 INR,Distributor,9/10,8,Available,,,9.0,32.0,35.0,3.0
+1116,Bananas,Fruit,31,66 INR,3 INR,Distributor,10/10,1,Available,,,10.0,63.0,66.0,3.0
+1117,Carrots,Vegetable,204,47 INR,13 INR,Local Factory,10/10,6,Available,,,10.0,34.0,47.0,13.0
+1118,Chicken,Meat,313,41 INR,14 INR,Distributor,5/10,1,Available,,,5.0,27.0,41.0,14.0
+1119,Carrots,Vegetable,87,58 INR,5 INR,Distributor,6/10,3,Sold Out,,,6.0,53.0,58.0,5.0
+1120,Fish,Meat,193,49 INR,32 INR,Farmer,5/10,10,Available,,,5.0,17.0,49.0,32.0
+1121,Oranges,Fruit,239,51 INR,34 INR,Importer,6/10,5,Available,,,6.0,17.0,51.0,34.0
+1122,Potatoes,Vegetable,153,45 INR,5 INR,Farmer,10/10,6,Available,,,10.0,40.0,45.0,5.0
+1123,Rice,Grain,246,25 INR,13 INR,Importer,9/10,3,Available,,,9.0,12.0,25.0,13.0
+1124,Butter,Dairy,70,63 INR,24 INR,Farmer,5/10,1,Sold Out,,,5.0,39.0,63.0,24.0
+1125,Rice,Grain,369,32 INR,3 INR,Importer,4/10,6,Available,,,4.0,29.0,32.0,3.0
+1126,Cabbage,Vegetable,443,75 INR,46 INR,Distributor,10/10,5,Available,,,10.0,29.0,75.0,46.0
+1127,Potatoes,Vegetable,56,55 INR,8 INR,Distributor,6/10,10,Available,,,6.0,47.0,55.0,8.0
+1128,Rice,Grain,111,16 INR,13 INR,Farmer,8/10,8,Available,,,8.0,3.0,16.0,13.0
+1129,Potatoes,Vegetable,225,78 INR,46 INR,Distributor,5/10,5,Available,,,5.0,32.0,78.0,46.0
+1130,Spinach,Vegetable,285,14 INR,5 INR,Farmer,7/10,2,Sold Out,,,7.0,9.0,14.0,5.0
+1131,Corn,Grain,241,70 INR,41 INR,Farmer,9/10,2,Available,,,9.0,29.0,70.0,41.0
+1132,Carrots,Vegetable,265,29 INR,7 INR,Distributor,5/10,1,Available,,,5.0,22.0,29.0,7.0
+1133,Yogurt,Dairy,81,62 INR,57 INR,Retailer,10/10,7,Available,,,10.0,5.0,62.0,57.0
+1134,Grapes,Fruit,85,63 INR,46 INR,Retailer,10/10,3,Available,,,10.0,17.0,63.0,46.0
+1135,Corn,Grain,42,73 INR,47 INR,Importer,9/10,8,Sold Out,,,9.0,26.0,73.0,47.0
+1136,Tomatoes,Vegetable,421,88 INR,84 INR,Local Factory,6/10,5,Available,,,6.0,4.0,88.0,84.0
+1137,Carrots,Vegetable,212,63 INR,62 INR,Retailer,5/10,8,Sold Out,,,5.0,1.0,63.0,62.0
+1138,Yogurt,Dairy,288,36 INR,8 INR,Local Factory,9/10,2,Available,,,9.0,28.0,36.0,8.0
+1139,Rice,Grain,138,87 INR,9 INR,Retailer,9/10,2,Sold Out,,,9.0,78.0,87.0,9.0
+1140,Grapes,Fruit,175,75 INR,9 INR,Farmer,5/10,5,Available,,,5.0,66.0,75.0,9.0
+1141,Chicken,Meat,400,79 INR,26 INR,Local Factory,10/10,8,Available,,,10.0,53.0,79.0,26.0
+1142,Rice,Grain,200,39 INR,7 INR,Farmer,5/10,2,Available,,,5.0,32.0,39.0,7.0
+1143,Beef,Meat,492,75 INR,3 INR,Local Factory,8/10,9,Sold Out,,,8.0,72.0,75.0,3.0
+1144,Grapes,Fruit,193,35 INR,28 INR,Farmer,5/10,4,Sold Out,,,5.0,7.0,35.0,28.0
+1145,Barley,Grain,111,94 INR,80 INR,Retailer,4/10,4,Available,,,4.0,14.0,94.0,80.0
+1146,Barley,Grain,376,87 INR,12 INR,Local Factory,10/10,3,Available,,,10.0,75.0,87.0,12.0
+1147,Cheese,Dairy,40,21 INR,1 INR,Importer,6/10,5,Sold Out,,,6.0,20.0,21.0,1.0
+1148,Milk,Dairy,460,78 INR,11 INR,Distributor,7/10,1,Available,,,7.0,67.0,78.0,11.0
+1149,Rice,Grain,40,62 INR,51 INR,Importer,6/10,2,Available,,,6.0,11.0,62.0,51.0
+1150,Cabbage,Vegetable,103,80 INR,70 INR,Distributor,6/10,6,Sold Out,,,6.0,10.0,80.0,70.0
+1151,Spinach,Vegetable,481,51 INR,22 INR,Distributor,5/10,3,Available,,,5.0,29.0,51.0,22.0
+1152,Bananas,Fruit,184,74 INR,28 INR,Distributor,6/10,1,Available,,,6.0,46.0,74.0,28.0
+1153,Butter,Dairy,168,12 INR,11 INR,Importer,6/10,9,Available,,,6.0,1.0,12.0,11.0
+1154,Corn,Grain,331,38 INR,3 INR,Importer,8/10,7,Sold Out,,,8.0,35.0,38.0,3.0
+1155,Lamb,Meat,127,17 INR,16 INR,Retailer,7/10,1,Available,,,7.0,1.0,17.0,16.0
+1156,Bananas,Fruit,379,76 INR,75 INR,Farmer,6/10,8,Available,,,6.0,1.0,76.0,75.0
+1157,Yogurt,Dairy,365,47 INR,12 INR,Local Factory,10/10,5,Available,,,10.0,35.0,47.0,12.0
+1158,Corn,Grain,247,27 INR,5 INR,Farmer,7/10,3,Available,,,7.0,22.0,27.0,5.0
+1159,Carrots,Vegetable,153,23 INR,12 INR,Retailer,4/10,1,Available,,,4.0,11.0,23.0,12.0
+1160,Cheese,Dairy,224,29 INR,10 INR,Local Factory,8/10,2,Sold Out,,,8.0,19.0,29.0,10.0
+1161,Cream,Dairy,422,40 INR,19 INR,Distributor,5/10,8,Sold Out,,,5.0,21.0,40.0,19.0
+1162,Oranges,Fruit,158,17 INR,7 INR,Local Factory,9/10,4,Available,,,9.0,10.0,17.0,7.0
+1163,Mangoes,Fruit,49,49 INR,34 INR,Distributor,7/10,4,Available,,,7.0,15.0,49.0,34.0
+1164,Cheese,Dairy,95,16 INR,6 INR,Farmer,7/10,7,Available,,,7.0,10.0,16.0,6.0
+1165,Carrots,Vegetable,106,11 INR,5 INR,Distributor,4/10,4,Sold Out,,,4.0,6.0,11.0,5.0
+1166,Oats,Grain,72,100 INR,10 INR,Retailer,5/10,1,Available,,,5.0,90.0,100.0,10.0
+1167,Beef,Meat,239,56 INR,1 INR,Distributor,10/10,3,Available,,,10.0,55.0,56.0,1.0
+1168,Fish,Meat,214,68 INR,49 INR,Farmer,5/10,9,Sold Out,,,5.0,19.0,68.0,49.0
+1169,Potatoes,Vegetable,351,11 INR,8 INR,Farmer,4/10,4,Available,,,4.0,3.0,11.0,8.0
+1170,Barley,Grain,225,12 INR,5 INR,Distributor,4/10,2,Available,,,4.0,7.0,12.0,5.0
+1171,Corn,Grain,273,62 INR,31 INR,Farmer,10/10,9,Available,,,10.0,31.0,62.0,31.0
+1172,Chicken,Meat,448,11 INR,1 INR,Distributor,10/10,1,Sold Out,,,10.0,10.0,11.0,1.0
+1173,Bananas,Fruit,469,15 INR,13 INR,Farmer,10/10,8,Available,,,10.0,2.0,15.0,13.0
+1174,Pork,Meat,374,49 INR,23 INR,Retailer,4/10,5,Available,,,4.0,26.0,49.0,23.0
+1175,Mangoes,Fruit,438,89 INR,79 INR,Importer,9/10,8,Available,,,9.0,10.0,89.0,79.0
+1176,Pork,Meat,318,99 INR,24 INR,Importer,8/10,5,Available,,,8.0,75.0,99.0,24.0
+1177,Potatoes,Vegetable,197,67 INR,66 INR,Local Factory,9/10,6,Available,,,9.0,1.0,67.0,66.0
+1178,Oats,Grain,193,58 INR,23 INR,Distributor,7/10,6,Available,,,7.0,35.0,58.0,23.0
+1179,Yogurt,Dairy,122,85 INR,84 INR,Farmer,4/10,3,Available,,,4.0,1.0,85.0,84.0
+1180,Grapes,Fruit,302,93 INR,78 INR,Farmer,6/10,4,Sold Out,,,6.0,15.0,93.0,78.0
+1181,Spinach,Vegetable,331,34 INR,9 INR,Retailer,6/10,6,Available,,,6.0,25.0,34.0,9.0
+1182,Milk,Dairy,32,59 INR,33 INR,Farmer,5/10,9,Available,,,5.0,26.0,59.0,33.0
+1183,Oats,Grain,478,79 INR,25 INR,Distributor,4/10,4,Available,,,4.0,54.0,79.0,25.0
+1184,Tomatoes,Vegetable,191,26 INR,15 INR,Farmer,10/10,6,Available,,,10.0,11.0,26.0,15.0
+1185,Grapes,Fruit,108,70 INR,11 INR,Retailer,6/10,6,Available,,,6.0,59.0,70.0,11.0
+1186,Fish,Meat,415,13 INR,6 INR,Distributor,7/10,5,Available,,,7.0,7.0,13.0,6.0
+1187,Cabbage,Vegetable,259,80 INR,45 INR,Importer,10/10,1,Available,,,10.0,35.0,80.0,45.0
+1188,Chicken,Meat,123,38 INR,33 INR,Farmer,4/10,7,Available,,,4.0,5.0,38.0,33.0
+1189,Bananas,Fruit,264,95 INR,55 INR,Distributor,6/10,3,Available,,,6.0,40.0,95.0,55.0
+1190,Mangoes,Fruit,339,92 INR,39 INR,Local Factory,5/10,5,Available,,,5.0,53.0,92.0,39.0
+1191,Potatoes,Vegetable,247,67 INR,11 INR,Farmer,8/10,5,Available,,,8.0,56.0,67.0,11.0
+1192,Carrots,Vegetable,479,98 INR,80 INR,Local Factory,7/10,4,Available,,,7.0,18.0,98.0,80.0
+1193,Bananas,Fruit,177,44 INR,2 INR,Distributor,5/10,7,Available,,,5.0,42.0,44.0,2.0
+1194,Fish,Meat,334,85 INR,1 INR,Distributor,7/10,7,Available,,,7.0,84.0,85.0,1.0
+1195,Mangoes,Fruit,451,94 INR,84 INR,Importer,8/10,2,Available,,,8.0,10.0,94.0,84.0
+1196,Rice,Grain,180,20 INR,6 INR,Distributor,10/10,4,Available,,,10.0,14.0,20.0,6.0
+1197,Corn,Grain,433,60 INR,19 INR,Importer,4/10,2,Available,,,4.0,41.0,60.0,19.0
+1198,Bananas,Fruit,133,84 INR,17 INR,Importer,10/10,7,Available,,,10.0,67.0,84.0,17.0
+1199,Mangoes,Fruit,115,60 INR,15 INR,Retailer,10/10,3,Available,,,10.0,45.0,60.0,15.0
+1200,Pork,Meat,399,77 INR,55 INR,Farmer,10/10,6,Available,,,10.0,22.0,77.0,55.0
+1201,apple,Fruit,1,1 INR,1 INR,Local Factory,8/10,1,Available,,,8.0,0.0,1.0,1.0
+1202,apple,Fruit,1,1 INR,1 INR,Local Factory,7/10,1,Available,,,7.0,0.0,1.0,1.0
+1203,Apples,Fruit,1,1 INR,1 INR,Local Factory,7/10,1,Available,,,7.0,0.0,1.0,1.0
+1204,Apples,Fruit,1,1 INR,1 INR,Local Factory,7/10,1,Available,2025-05-28 00:00:00,2025-05-29 00:00:00,7.0,0.0,1.0,1.0
+1205,Apples,Fruit,69,10000 INR,1 INR,Farmer,7/10,2,Available,2025-05-28,2025-05-30,,,,

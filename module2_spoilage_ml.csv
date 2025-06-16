@@ -1,0 +1,501 @@
+product_name,storage_type,shelf_life_days,days_since_entry,spoiled
+Tomatoes,Chilled,29,28,0
+Fish Fillet,Frozen,60,54,0
+Chicken Breast,Chilled,44,3,0
+Mangoes,Chilled,11,6,0
+Spinach,Dehydrated,21,5,0
+Tomatoes,Dehydrated,16,17,1
+Carrots,Dehydrated,5,13,1
+Fish Fillet,Chilled,43,30,0
+Chicken Breast,Dehydrated,19,9,0
+Spinach,Frozen,49,55,1
+Fish Fillet,Dehydrated,48,14,0
+Chicken Breast,Chilled,42,42,0
+Bell Pepper,Dehydrated,32,7,0
+Mangoes,Dehydrated,46,9,0
+Chicken Breast,Dehydrated,9,1,0
+Tomatoes,Frozen,43,47,1
+Bell Pepper,Chilled,23,28,1
+Carrots,Frozen,49,19,0
+Spinach,Frozen,22,32,1
+Mangoes,Frozen,33,5,0
+Mangoes,Dehydrated,32,20,0
+Mangoes,Frozen,6,2,0
+Tomatoes,Chilled,58,2,0
+Bell Pepper,Chilled,57,34,0
+Mangoes,Dehydrated,53,22,0
+Fish Fillet,Chilled,46,28,0
+Chicken Breast,Dehydrated,42,27,0
+Spinach,Frozen,10,15,1
+Chicken Breast,Frozen,26,20,0
+Spinach,Dehydrated,59,20,0
+Chicken Breast,Frozen,49,31,0
+Chicken Breast,Chilled,30,35,1
+Carrots,Frozen,10,10,0
+Chicken Breast,Frozen,12,12,0
+Bell Pepper,Chilled,57,0,0
+Spinach,Chilled,34,26,0
+Carrots,Dehydrated,38,23,0
+Mangoes,Frozen,45,28,0
+Bell Pepper,Dehydrated,18,8,0
+Mangoes,Dehydrated,23,28,1
+Spinach,Frozen,12,0,0
+Spinach,Chilled,56,30,0
+Spinach,Dehydrated,24,0,0
+Mangoes,Frozen,10,7,0
+Bell Pepper,Dehydrated,34,7,0
+Spinach,Dehydrated,36,45,1
+Chicken Breast,Chilled,50,17,0
+Fish Fillet,Frozen,35,15,0
+Fish Fillet,Chilled,14,12,0
+Tomatoes,Chilled,37,47,1
+Tomatoes,Dehydrated,22,26,1
+Chicken Breast,Chilled,22,0,0
+Chicken Breast,Chilled,24,31,1
+Bell Pepper,Dehydrated,33,34,1
+Fish Fillet,Frozen,26,35,1
+Bell Pepper,Chilled,29,29,0
+Chicken Breast,Dehydrated,49,15,0
+Mangoes,Frozen,19,27,1
+Bell Pepper,Frozen,7,10,1
+Spinach,Frozen,50,58,1
+Bell Pepper,Frozen,29,9,0
+Fish Fillet,Dehydrated,13,16,1
+Mangoes,Frozen,60,12,0
+Bell Pepper,Frozen,11,16,1
+Fish Fillet,Dehydrated,51,9,0
+Fish Fillet,Chilled,14,2,0
+Fish Fillet,Frozen,26,25,0
+Spinach,Dehydrated,59,42,0
+Bell Pepper,Chilled,59,68,1
+Fish Fillet,Frozen,45,45,0
+Bell Pepper,Frozen,60,69,1
+Carrots,Chilled,9,7,0
+Spinach,Chilled,23,14,0
+Spinach,Dehydrated,32,6,0
+Bell Pepper,Chilled,50,55,1
+Carrots,Frozen,15,22,1
+Chicken Breast,Dehydrated,7,10,1
+Bell Pepper,Dehydrated,23,22,0
+Chicken Breast,Frozen,14,7,0
+Mangoes,Frozen,41,43,1
+Bell Pepper,Dehydrated,15,5,0
+Carrots,Chilled,60,48,0
+Mangoes,Chilled,20,15,0
+Mangoes,Dehydrated,19,14,0
+Spinach,Frozen,34,16,0
+Spinach,Dehydrated,56,59,1
+Chicken Breast,Chilled,39,10,0
+Carrots,Frozen,27,37,1
+Chicken Breast,Chilled,32,16,0
+Fish Fillet,Frozen,17,12,0
+Bell Pepper,Frozen,11,7,0
+Fish Fillet,Chilled,27,36,1
+Chicken Breast,Chilled,23,1,0
+Bell Pepper,Chilled,30,17,0
+Carrots,Chilled,60,6,0
+Mangoes,Chilled,36,18,0
+Bell Pepper,Dehydrated,43,51,1
+Chicken Breast,Dehydrated,45,12,0
+Mangoes,Frozen,48,48,0
+Spinach,Chilled,48,53,1
+Tomatoes,Chilled,11,20,1
+Spinach,Dehydrated,24,28,1
+Carrots,Chilled,28,8,0
+Carrots,Frozen,25,26,1
+Tomatoes,Dehydrated,13,17,1
+Chicken Breast,Chilled,37,17,0
+Bell Pepper,Dehydrated,21,30,1
+Bell Pepper,Frozen,52,55,1
+Chicken Breast,Dehydrated,34,4,0
+Tomatoes,Dehydrated,60,50,0
+Bell Pepper,Chilled,28,5,0
+Bell Pepper,Frozen,5,8,1
+Mangoes,Dehydrated,34,23,0
+Spinach,Chilled,48,16,0
+Mangoes,Frozen,57,47,0
+Carrots,Chilled,19,15,0
+Carrots,Chilled,40,20,0
+Mangoes,Dehydrated,46,4,0
+Spinach,Frozen,49,19,0
+Spinach,Frozen,12,4,0
+Carrots,Dehydrated,24,31,1
+Carrots,Dehydrated,20,28,1
+Mangoes,Dehydrated,29,29,0
+Chicken Breast,Chilled,52,44,0
+Mangoes,Frozen,42,47,1
+Spinach,Dehydrated,31,41,1
+Carrots,Frozen,44,26,0
+Chicken Breast,Dehydrated,49,23,0
+Tomatoes,Frozen,33,15,0
+Bell Pepper,Frozen,11,21,1
+Chicken Breast,Chilled,46,22,0
+Carrots,Frozen,22,12,0
+Carrots,Frozen,10,6,0
+Spinach,Chilled,43,1,0
+Carrots,Frozen,20,4,0
+Bell Pepper,Chilled,18,2,0
+Bell Pepper,Chilled,18,18,0
+Tomatoes,Dehydrated,26,9,0
+Bell Pepper,Chilled,5,8,1
+Bell Pepper,Dehydrated,13,17,1
+Chicken Breast,Dehydrated,12,21,1
+Bell Pepper,Dehydrated,13,0,0
+Chicken Breast,Dehydrated,42,20,0
+Carrots,Dehydrated,21,3,0
+Tomatoes,Chilled,31,33,1
+Carrots,Chilled,9,15,1
+Fish Fillet,Frozen,37,37,0
+Carrots,Frozen,37,14,0
+Mangoes,Dehydrated,51,50,0
+Bell Pepper,Chilled,38,19,0
+Fish Fillet,Chilled,6,1,0
+Fish Fillet,Frozen,32,6,0
+Fish Fillet,Chilled,33,4,0
+Carrots,Frozen,43,9,0
+Carrots,Dehydrated,22,20,0
+Fish Fillet,Chilled,38,18,0
+Fish Fillet,Chilled,43,27,0
+Carrots,Chilled,12,20,1
+Spinach,Chilled,51,55,1
+Tomatoes,Frozen,33,14,0
+Fish Fillet,Frozen,57,58,1
+Fish Fillet,Frozen,51,6,0
+Chicken Breast,Frozen,25,16,0
+Chicken Breast,Dehydrated,48,30,0
+Carrots,Dehydrated,58,10,0
+Carrots,Frozen,11,11,0
+Bell Pepper,Dehydrated,40,3,0
+Mangoes,Chilled,40,21,0
+Spinach,Dehydrated,31,22,0
+Bell Pepper,Chilled,53,54,1
+Bell Pepper,Chilled,8,9,1
+Mangoes,Frozen,27,6,0
+Mangoes,Chilled,18,4,0
+Spinach,Frozen,19,27,1
+Carrots,Frozen,59,47,0
+Carrots,Frozen,41,14,0
+Bell Pepper,Frozen,59,3,0
+Mangoes,Chilled,58,34,0
+Carrots,Dehydrated,22,19,0
+Chicken Breast,Frozen,5,5,0
+Bell Pepper,Dehydrated,41,42,1
+Fish Fillet,Dehydrated,14,23,1
+Spinach,Dehydrated,10,16,1
+Tomatoes,Frozen,31,29,0
+Chicken Breast,Dehydrated,28,19,0
+Spinach,Frozen,54,10,0
+Carrots,Dehydrated,15,24,1
+Mangoes,Dehydrated,48,5,0
+Chicken Breast,Frozen,47,27,0
+Fish Fillet,Chilled,33,26,0
+Chicken Breast,Dehydrated,53,14,0
+Chicken Breast,Frozen,12,9,0
+Spinach,Chilled,42,31,0
+Mangoes,Chilled,24,2,0
+Tomatoes,Frozen,43,3,0
+Carrots,Dehydrated,24,13,0
+Bell Pepper,Dehydrated,53,32,0
+Chicken Breast,Frozen,12,0,0
+Fish Fillet,Chilled,32,11,0
+Tomatoes,Frozen,39,45,1
+Tomatoes,Chilled,40,42,1
+Bell Pepper,Frozen,9,12,1
+Bell Pepper,Chilled,7,13,1
+Carrots,Frozen,9,10,1
+Mangoes,Frozen,41,25,0
+Spinach,Chilled,31,18,0
+Carrots,Frozen,6,10,1
+Tomatoes,Chilled,34,44,1
+Chicken Breast,Dehydrated,32,6,0
+Tomatoes,Frozen,42,25,0
+Mangoes,Dehydrated,30,19,0
+Spinach,Frozen,19,10,0
+Bell Pepper,Dehydrated,9,16,1
+Spinach,Dehydrated,38,32,0
+Tomatoes,Frozen,27,9,0
+Tomatoes,Dehydrated,14,8,0
+Tomatoes,Dehydrated,43,9,0
+Bell Pepper,Chilled,9,5,0
+Bell Pepper,Chilled,36,29,0
+Bell Pepper,Chilled,53,57,1
+Spinach,Chilled,46,40,0
+Mangoes,Frozen,60,40,0
+Tomatoes,Frozen,9,15,1
+Fish Fillet,Chilled,24,17,0
+Mangoes,Dehydrated,27,32,1
+Carrots,Frozen,34,28,0
+Carrots,Dehydrated,28,18,0
+Carrots,Chilled,60,11,0
+Mangoes,Chilled,37,24,0
+Fish Fillet,Chilled,40,50,1
+Spinach,Dehydrated,33,36,1
+Spinach,Dehydrated,25,30,1
+Mangoes,Dehydrated,8,14,1
+Carrots,Frozen,50,5,0
+Mangoes,Chilled,16,1,0
+Tomatoes,Chilled,33,28,0
+Mangoes,Chilled,44,10,0
+Chicken Breast,Frozen,23,24,1
+Fish Fillet,Frozen,48,38,0
+Carrots,Chilled,46,21,0
+Carrots,Frozen,11,17,1
+Spinach,Frozen,23,16,0
+Spinach,Chilled,43,9,0
+Chicken Breast,Dehydrated,42,42,0
+Tomatoes,Frozen,24,25,1
+Tomatoes,Chilled,50,60,1
+Carrots,Frozen,40,24,0
+Spinach,Frozen,57,16,0
+Spinach,Chilled,58,67,1
+Carrots,Chilled,47,27,0
+Mangoes,Frozen,6,11,1
+Chicken Breast,Dehydrated,18,10,0
+Bell Pepper,Frozen,17,7,0
+Tomatoes,Dehydrated,9,9,0
+Bell Pepper,Dehydrated,37,34,0
+Bell Pepper,Chilled,38,2,0
+Spinach,Frozen,54,16,0
+Mangoes,Frozen,14,5,0
+Tomatoes,Chilled,54,21,0
+Spinach,Frozen,7,13,1
+Chicken Breast,Chilled,51,15,0
+Fish Fillet,Chilled,23,28,1
+Tomatoes,Chilled,20,9,0
+Bell Pepper,Frozen,58,24,0
+Chicken Breast,Chilled,41,28,0
+Fish Fillet,Frozen,54,48,0
+Mangoes,Chilled,31,10,0
+Bell Pepper,Dehydrated,56,17,0
+Bell Pepper,Frozen,8,15,1
+Bell Pepper,Frozen,40,6,0
+Spinach,Chilled,59,15,0
+Chicken Breast,Dehydrated,53,20,0
+Chicken Breast,Frozen,37,9,0
+Bell Pepper,Frozen,10,7,0
+Bell Pepper,Frozen,27,1,0
+Fish Fillet,Dehydrated,30,32,1
+Chicken Breast,Dehydrated,29,5,0
+Chicken Breast,Dehydrated,6,10,1
+Carrots,Chilled,46,21,0
+Bell Pepper,Dehydrated,13,1,0
+Chicken Breast,Frozen,49,53,1
+Tomatoes,Chilled,35,28,0
+Mangoes,Dehydrated,10,0,0
+Chicken Breast,Dehydrated,58,19,0
+Mangoes,Chilled,43,33,0
+Fish Fillet,Dehydrated,54,36,0
+Tomatoes,Frozen,12,1,0
+Tomatoes,Frozen,45,50,1
+Mangoes,Frozen,9,3,0
+Bell Pepper,Frozen,43,34,0
+Carrots,Chilled,37,36,0
+Tomatoes,Chilled,14,9,0
+Fish Fillet,Dehydrated,44,22,0
+Tomatoes,Chilled,31,11,0
+Spinach,Chilled,10,16,1
+Chicken Breast,Dehydrated,38,34,0
+Mangoes,Chilled,40,1,0
+Fish Fillet,Frozen,7,12,1
+Chicken Breast,Frozen,52,1,0
+Chicken Breast,Dehydrated,27,15,0
+Spinach,Chilled,45,6,0
+Bell Pepper,Chilled,52,48,0
+Chicken Breast,Dehydrated,7,11,1
+Mangoes,Frozen,57,22,0
+Bell Pepper,Chilled,34,44,1
+Fish Fillet,Chilled,16,25,1
+Tomatoes,Dehydrated,50,49,0
+Fish Fillet,Dehydrated,23,12,0
+Carrots,Dehydrated,7,10,1
+Chicken Breast,Chilled,30,34,1
+Fish Fillet,Frozen,7,6,0
+Chicken Breast,Frozen,60,6,0
+Bell Pepper,Chilled,26,17,0
+Carrots,Frozen,32,25,0
+Spinach,Frozen,29,21,0
+Tomatoes,Frozen,49,31,0
+Chicken Breast,Chilled,22,5,0
+Spinach,Frozen,10,13,1
+Mangoes,Dehydrated,39,18,0
+Chicken Breast,Dehydrated,10,10,0
+Spinach,Frozen,24,28,1
+Mangoes,Chilled,32,10,0
+Spinach,Frozen,27,28,1
+Carrots,Chilled,60,45,0
+Mangoes,Frozen,22,3,0
+Carrots,Chilled,45,25,0
+Chicken Breast,Chilled,56,20,0
+Carrots,Dehydrated,59,56,0
+Carrots,Dehydrated,9,7,0
+Bell Pepper,Chilled,28,23,0
+Fish Fillet,Chilled,7,4,0
+Spinach,Frozen,28,23,0
+Fish Fillet,Dehydrated,41,8,0
+Mangoes,Frozen,30,20,0
+Spinach,Frozen,20,30,1
+Carrots,Dehydrated,52,11,0
+Fish Fillet,Chilled,29,35,1
+Carrots,Frozen,54,33,0
+Spinach,Frozen,18,19,1
+Chicken Breast,Chilled,36,12,0
+Carrots,Dehydrated,59,9,0
+Fish Fillet,Dehydrated,50,28,0
+Carrots,Chilled,59,40,0
+Spinach,Frozen,50,4,0
+Mangoes,Chilled,23,19,0
+Bell Pepper,Dehydrated,50,45,0
+Spinach,Chilled,16,25,1
+Chicken Breast,Chilled,19,3,0
+Tomatoes,Dehydrated,20,25,1
+Fish Fillet,Dehydrated,28,35,1
+Mangoes,Frozen,34,35,1
+Tomatoes,Chilled,10,2,0
+Chicken Breast,Frozen,50,46,0
+Fish Fillet,Chilled,31,26,0
+Bell Pepper,Chilled,9,4,0
+Chicken Breast,Chilled,9,14,1
+Fish Fillet,Chilled,38,22,0
+Tomatoes,Chilled,45,37,0
+Tomatoes,Dehydrated,32,32,0
+Bell Pepper,Dehydrated,58,15,0
+Mangoes,Dehydrated,24,10,0
+Tomatoes,Frozen,50,14,0
+Chicken Breast,Chilled,23,5,0
+Chicken Breast,Dehydrated,45,35,0
+Chicken Breast,Dehydrated,45,19,0
+Mangoes,Chilled,10,16,1
+Spinach,Dehydrated,42,37,0
+Tomatoes,Dehydrated,47,39,0
+Spinach,Chilled,26,36,1
+Carrots,Dehydrated,10,1,0
+Spinach,Chilled,21,13,0
+Bell Pepper,Chilled,31,39,1
+Spinach,Dehydrated,36,40,1
+Mangoes,Frozen,46,19,0
+Fish Fillet,Dehydrated,56,51,0
+Chicken Breast,Frozen,9,1,0
+Tomatoes,Frozen,31,30,0
+Fish Fillet,Dehydrated,26,9,0
+Chicken Breast,Chilled,25,22,0
+Fish Fillet,Dehydrated,53,47,0
+Mangoes,Chilled,11,10,0
+Tomatoes,Frozen,12,8,0
+Fish Fillet,Dehydrated,14,3,0
+Carrots,Frozen,29,39,1
+Fish Fillet,Dehydrated,60,20,0
+Bell Pepper,Frozen,41,46,1
+Chicken Breast,Dehydrated,53,20,0
+Fish Fillet,Chilled,34,31,0
+Chicken Breast,Frozen,6,2,0
+Fish Fillet,Chilled,34,15,0
+Tomatoes,Chilled,27,3,0
+Carrots,Frozen,36,38,1
+Bell Pepper,Chilled,48,30,0
+Chicken Breast,Chilled,5,3,0
+Fish Fillet,Dehydrated,21,23,1
+Bell Pepper,Frozen,28,2,0
+Fish Fillet,Dehydrated,41,35,0
+Tomatoes,Frozen,40,18,0
+Carrots,Frozen,37,28,0
+Bell Pepper,Chilled,22,7,0
+Tomatoes,Dehydrated,30,23,0
+Bell Pepper,Frozen,40,23,0
+Bell Pepper,Dehydrated,17,19,1
+Mangoes,Frozen,37,2,0
+Carrots,Dehydrated,13,22,1
+Chicken Breast,Frozen,38,29,0
+Tomatoes,Chilled,37,8,0
+Chicken Breast,Chilled,25,10,0
+Fish Fillet,Chilled,52,53,1
+Chicken Breast,Chilled,26,32,1
+Bell Pepper,Chilled,39,31,0
+Spinach,Chilled,24,30,1
+Bell Pepper,Dehydrated,28,21,0
+Spinach,Dehydrated,31,37,1
+Chicken Breast,Chilled,60,3,0
+Mangoes,Frozen,21,14,0
+Spinach,Dehydrated,42,30,0
+Tomatoes,Chilled,45,46,1
+Mangoes,Frozen,14,21,1
+Tomatoes,Dehydrated,41,44,1
+Carrots,Dehydrated,6,14,1
+Chicken Breast,Frozen,14,13,0
+Spinach,Dehydrated,31,32,1
+Bell Pepper,Chilled,35,3,0
+Spinach,Dehydrated,38,13,0
+Mangoes,Frozen,47,30,0
+Mangoes,Frozen,25,11,0
+Fish Fillet,Chilled,26,34,1
+Chicken Breast,Chilled,54,33,0
+Mangoes,Frozen,17,7,0
+Chicken Breast,Chilled,24,14,0
+Chicken Breast,Frozen,50,13,0
+Spinach,Chilled,36,20,0
+Fish Fillet,Frozen,40,50,1
+Spinach,Frozen,23,7,0
+Mangoes,Chilled,39,24,0
+Fish Fillet,Frozen,54,18,0
+Chicken Breast,Dehydrated,23,5,0
+Chicken Breast,Frozen,46,16,0
+Spinach,Frozen,18,6,0
+Bell Pepper,Chilled,22,17,0
+Tomatoes,Dehydrated,44,47,1
+Mangoes,Dehydrated,20,1,0
+Spinach,Chilled,19,20,1
+Tomatoes,Dehydrated,11,13,1
+Chicken Breast,Chilled,35,6,0
+Spinach,Dehydrated,5,5,0
+Fish Fillet,Chilled,35,30,0
+Spinach,Dehydrated,53,36,0
+Chicken Breast,Frozen,46,3,0
+Bell Pepper,Dehydrated,46,36,0
+Tomatoes,Chilled,52,46,0
+Bell Pepper,Dehydrated,16,13,0
+Bell Pepper,Dehydrated,7,12,1
+Bell Pepper,Frozen,16,23,1
+Bell Pepper,Frozen,7,0,0
+Chicken Breast,Chilled,43,6,0
+Chicken Breast,Frozen,34,41,1
+Mangoes,Chilled,36,8,0
+Bell Pepper,Chilled,34,17,0
+Tomatoes,Dehydrated,26,10,0
+Spinach,Frozen,46,16,0
+Spinach,Dehydrated,5,10,1
+Bell Pepper,Frozen,41,43,1
+Bell Pepper,Dehydrated,16,19,1
+Bell Pepper,Chilled,30,27,0
+Mangoes,Frozen,10,12,1
+Spinach,Dehydrated,16,4,0
+Fish Fillet,Frozen,20,0,0
+Chicken Breast,Frozen,20,14,0
+Bell Pepper,Frozen,26,19,0
+Mangoes,Chilled,41,0,0
+Chicken Breast,Chilled,28,15,0
+Carrots,Chilled,12,14,1
+Chicken Breast,Dehydrated,30,32,1
+Spinach,Frozen,49,7,0
+Spinach,Frozen,28,14,0
+Tomatoes,Dehydrated,35,9,0
+Fish Fillet,Chilled,43,23,0
+Fish Fillet,Chilled,40,30,0
+Bell Pepper,Chilled,56,27,0
+Bell Pepper,Dehydrated,48,48,0
+Mangoes,Dehydrated,38,28,0
+Mangoes,Chilled,28,4,0
+Mangoes,Dehydrated,8,17,1
+Mangoes,Dehydrated,41,34,0
+Tomatoes,Dehydrated,25,33,1
+Fish Fillet,Dehydrated,48,13,0
+Spinach,Chilled,36,5,0
+Mangoes,Frozen,56,7,0
+Fish Fillet,Dehydrated,37,26,0
+Fish Fillet,Chilled,8,17,1
+Fish Fillet,Chilled,56,39,0
+Spinach,Dehydrated,30,16,0
+Bell Pepper,Dehydrated,52,13,0
+Mangoes,Dehydrated,7,13,1
+Chicken Breast,Chilled,9,17,1
+Carrots,Dehydrated,35,2,0
+Chicken Breast,Frozen,16,24,1
+Tomatoes,Chilled,51,41,0

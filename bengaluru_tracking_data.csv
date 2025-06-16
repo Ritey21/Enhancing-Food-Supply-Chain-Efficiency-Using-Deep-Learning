@@ -1,0 +1,101 @@
+product_id,product_name,vehicle_id,source,source_lat,source_lon,destination,destination_lat,destination_lon,current_location,current_lat,current_lon,status,temperature_C,humidity_%,last_updated
+P2680,Curd,V312,Banashankari,12.9132,77.5736,BTM Layout,12.9166,77.6101,BTM Layout,12.9166,77.6101,Spoilage Suspected,11.9,43.4,2025-05-27 12:51:48
+P1369,Paneer,V693,Indiranagar,12.9719,77.6412,Electronic City,12.8452,77.6604,Yeshwanthpur,13.0284,77.5407,Delayed,11.7,56.7,2025-05-27 05:51:48
+P4981,Spinach,V556,Banashankari,12.9132,77.5736,Yeshwanthpur,13.0284,77.5407,KR Market,12.9592,77.5738,Delivered,5.8,63.5,2025-05-28 10:51:48
+P6301,Apples,V728,Whitefield,12.9698,77.7499,Indiranagar,12.9719,77.6412,Yeshwanthpur,13.0284,77.5407,Spoilage Suspected,10.1,71.1,2025-05-28 04:51:48
+P8913,Curd,V102,Indiranagar,12.9719,77.6412,Yeshwanthpur,13.0284,77.5407,BTM Layout,12.9166,77.6101,In Transit,4.2,63.6,2025-05-27 11:51:48
+P1466,Bananas,V155,BTM Layout,12.9166,77.6101,Electronic City,12.8452,77.6604,KR Market,12.9592,77.5738,In Transit,5.1,69.4,2025-05-27 14:51:48
+P9407,Bananas,V147,Indiranagar,12.9719,77.6412,KR Market,12.9592,77.5738,KR Market,12.9592,77.5738,Spoilage Suspected,7.5,49.0,2025-05-27 00:51:48
+P3742,Tomatoes,V433,Whitefield,12.9698,77.7499,Hebbal,13.0352,77.5912,Electronic City,12.8452,77.6604,Spoilage Suspected,2.9,72.7,2025-05-28 04:51:48
+P2738,Paneer,V810,Indiranagar,12.9719,77.6412,KR Market,12.9592,77.5738,Yeshwanthpur,13.0284,77.5407,Delayed,7.1,59.6,2025-05-28 08:51:48
+P2871,Curd,V482,Banashankari,12.9132,77.5736,Yeshwanthpur,13.0284,77.5407,Banashankari,12.9132,77.5736,In Transit,4.9,61.4,2025-05-28 10:51:48
+P5702,Apples,V392,Yeshwanthpur,13.0284,77.5407,Electronic City,12.8452,77.6604,Electronic City,12.8452,77.6604,Delivered,3.8,51.3,2025-05-28 07:51:48
+P8555,Tomatoes,V149,Hebbal,13.0352,77.5912,KR Market,12.9592,77.5738,Electronic City,12.8452,77.6604,Delayed,6.9,43.5,2025-05-26 22:51:48
+P4724,Apples,V652,Electronic City,12.8452,77.6604,KR Market,12.9592,77.5738,Electronic City,12.8452,77.6604,Delivered,7.1,70.1,2025-05-26 14:51:48
+P8124,Curd,V822,KR Market,12.9592,77.5738,Yeshwanthpur,13.0284,77.5407,BTM Layout,12.9166,77.6101,Spoilage Suspected,5.8,50.9,2025-05-27 05:51:48
+P5854,Curd,V927,Hebbal,13.0352,77.5912,Indiranagar,12.9719,77.6412,Electronic City,12.8452,77.6604,Delivered,3.2,49.1,2025-05-28 07:51:48
+P4712,Paneer,V827,Whitefield,12.9698,77.7499,KR Market,12.9592,77.5738,Hebbal,13.0352,77.5912,Delivered,10.2,57.3,2025-05-27 13:51:48
+P2338,Apples,V399,Banashankari,12.9132,77.5736,Electronic City,12.8452,77.6604,BTM Layout,12.9166,77.6101,In Transit,9.4,64.2,2025-05-27 00:51:48
+P1301,Milk,V742,Indiranagar,12.9719,77.6412,Yeshwanthpur,13.0284,77.5407,KR Market,12.9592,77.5738,Delayed,4.9,48.5,2025-05-26 16:51:48
+P9458,Apples,V687,Yeshwanthpur,13.0284,77.5407,Hebbal,13.0352,77.5912,Yeshwanthpur,13.0284,77.5407,Spoilage Suspected,6.2,42.2,2025-05-27 10:51:48
+P1106,Bananas,V280,Indiranagar,12.9719,77.6412,Banashankari,12.9132,77.5736,Whitefield,12.9698,77.7499,In Transit,11.3,45.8,2025-05-26 16:51:48
+P9897,Apples,V656,Hebbal,13.0352,77.5912,BTM Layout,12.9166,77.6101,Whitefield,12.9698,77.7499,Delivered,10.8,53.9,2025-05-27 18:51:48
+P5466,Tomatoes,V506,Hebbal,13.0352,77.5912,KR Market,12.9592,77.5738,KR Market,12.9592,77.5738,Delayed,4.5,66.8,2025-05-28 04:51:48
+P1241,Curd,V942,Hebbal,13.0352,77.5912,Electronic City,12.8452,77.6604,Banashankari,12.9132,77.5736,Delayed,6.3,62.9,2025-05-27 07:51:48
+P8857,Apples,V953,Yeshwanthpur,13.0284,77.5407,Whitefield,12.9698,77.7499,Electronic City,12.8452,77.6604,Delivered,7.8,57.9,2025-05-28 02:51:48
+P7613,Tomatoes,V331,Yeshwanthpur,13.0284,77.5407,Indiranagar,12.9719,77.6412,Electronic City,12.8452,77.6604,In Transit,2.2,62.0,2025-05-28 00:51:48
+P1897,Milk,V439,Hebbal,13.0352,77.5912,Electronic City,12.8452,77.6604,Indiranagar,12.9719,77.6412,Delivered,5.4,66.9,2025-05-27 08:51:48
+P2211,Paneer,V387,KR Market,12.9592,77.5738,Hebbal,13.0352,77.5912,Whitefield,12.9698,77.7499,Delayed,8.0,59.0,2025-05-27 03:51:48
+P5567,Milk,V502,Indiranagar,12.9719,77.6412,Whitefield,12.9698,77.7499,Yeshwanthpur,13.0284,77.5407,Delayed,10.5,53.5,2025-05-27 05:51:48
+P9184,Paneer,V939,Banashankari,12.9132,77.5736,Whitefield,12.9698,77.7499,BTM Layout,12.9166,77.6101,In Transit,5.9,41.3,2025-05-27 11:51:48
+P4264,Spinach,V484,Electronic City,12.8452,77.6604,Indiranagar,12.9719,77.6412,Electronic City,12.8452,77.6604,Spoilage Suspected,10.3,71.5,2025-05-27 00:51:48
+P8170,Milk,V865,KR Market,12.9592,77.5738,Electronic City,12.8452,77.6604,Hebbal,13.0352,77.5912,In Transit,6.6,62.9,2025-05-27 15:51:48
+P8854,Apples,V572,Whitefield,12.9698,77.7499,Yeshwanthpur,13.0284,77.5407,Whitefield,12.9698,77.7499,Delivered,5.8,60.7,2025-05-28 01:51:48
+P6979,Tomatoes,V188,Electronic City,12.8452,77.6604,BTM Layout,12.9166,77.6101,Whitefield,12.9698,77.7499,Spoilage Suspected,8.3,50.6,2025-05-27 06:51:48
+P4847,Milk,V862,Yeshwanthpur,13.0284,77.5407,KR Market,12.9592,77.5738,Indiranagar,12.9719,77.6412,Spoilage Suspected,9.5,58.6,2025-05-26 20:51:48
+P5272,Paneer,V273,Indiranagar,12.9719,77.6412,Banashankari,12.9132,77.5736,BTM Layout,12.9166,77.6101,Delayed,10.7,51.5,2025-05-27 22:51:48
+P8137,Spinach,V694,Hebbal,13.0352,77.5912,Banashankari,12.9132,77.5736,Electronic City,12.8452,77.6604,Spoilage Suspected,11.3,47.2,2025-05-27 09:51:48
+P5741,Paneer,V557,Yeshwanthpur,13.0284,77.5407,Banashankari,12.9132,77.5736,Electronic City,12.8452,77.6604,Delivered,7.2,61.0,2025-05-26 15:51:48
+P6098,Tomatoes,V992,Yeshwanthpur,13.0284,77.5407,Indiranagar,12.9719,77.6412,Indiranagar,12.9719,77.6412,Delayed,3.7,79.5,2025-05-26 16:51:48
+P2022,Milk,V695,Yeshwanthpur,13.0284,77.5407,BTM Layout,12.9166,77.6101,KR Market,12.9592,77.5738,Delivered,2.3,61.7,2025-05-27 19:51:48
+P9465,Milk,V798,Hebbal,13.0352,77.5912,Indiranagar,12.9719,77.6412,Indiranagar,12.9719,77.6412,Delayed,11.7,73.6,2025-05-27 23:51:48
+P3708,Curd,V985,Indiranagar,12.9719,77.6412,Electronic City,12.8452,77.6604,Banashankari,12.9132,77.5736,Spoilage Suspected,7.3,46.5,2025-05-26 13:51:48
+P6563,Spinach,V401,Hebbal,13.0352,77.5912,Indiranagar,12.9719,77.6412,Electronic City,12.8452,77.6604,Delivered,10.5,60.3,2025-05-27 00:51:48
+P1320,Spinach,V345,Electronic City,12.8452,77.6604,KR Market,12.9592,77.5738,Whitefield,12.9698,77.7499,Spoilage Suspected,11.0,65.3,2025-05-27 00:51:48
+P8247,Spinach,V307,Banashankari,12.9132,77.5736,Indiranagar,12.9719,77.6412,KR Market,12.9592,77.5738,In Transit,5.6,58.2,2025-05-28 04:51:48
+P3025,Tomatoes,V252,Electronic City,12.8452,77.6604,KR Market,12.9592,77.5738,Electronic City,12.8452,77.6604,In Transit,6.9,60.9,2025-05-27 11:51:48
+P9961,Spinach,V213,KR Market,12.9592,77.5738,Banashankari,12.9132,77.5736,Whitefield,12.9698,77.7499,Delivered,10.2,74.4,2025-05-27 00:51:48
+P4300,Tomatoes,V235,BTM Layout,12.9166,77.6101,Yeshwanthpur,13.0284,77.5407,Indiranagar,12.9719,77.6412,Spoilage Suspected,9.4,55.5,2025-05-27 08:51:48
+P2306,Bananas,V485,Yeshwanthpur,13.0284,77.5407,Indiranagar,12.9719,77.6412,KR Market,12.9592,77.5738,Spoilage Suspected,11.7,41.8,2025-05-27 06:51:48
+P4344,Bananas,V604,Hebbal,13.0352,77.5912,BTM Layout,12.9166,77.6101,Hebbal,13.0352,77.5912,Delivered,2.6,55.2,2025-05-27 23:51:48
+P8651,Apples,V530,BTM Layout,12.9166,77.6101,Banashankari,12.9132,77.5736,Indiranagar,12.9719,77.6412,In Transit,8.6,79.7,2025-05-26 10:51:48
+P4645,Bananas,V113,Banashankari,12.9132,77.5736,Yeshwanthpur,13.0284,77.5407,Whitefield,12.9698,77.7499,Spoilage Suspected,5.0,51.9,2025-05-27 13:51:48
+P5538,Tomatoes,V658,Banashankari,12.9132,77.5736,KR Market,12.9592,77.5738,Yeshwanthpur,13.0284,77.5407,In Transit,11.8,41.6,2025-05-28 02:51:48
+P6568,Spinach,V631,BTM Layout,12.9166,77.6101,Banashankari,12.9132,77.5736,Indiranagar,12.9719,77.6412,In Transit,11.9,40.2,2025-05-28 09:51:48
+P3461,Bananas,V758,Electronic City,12.8452,77.6604,Indiranagar,12.9719,77.6412,Banashankari,12.9132,77.5736,Spoilage Suspected,2.5,64.8,2025-05-26 19:51:48
+P7324,Milk,V863,Yeshwanthpur,13.0284,77.5407,BTM Layout,12.9166,77.6101,Indiranagar,12.9719,77.6412,Delayed,11.4,62.5,2025-05-26 14:51:48
+P1103,Milk,V359,Electronic City,12.8452,77.6604,Hebbal,13.0352,77.5912,Electronic City,12.8452,77.6604,Delivered,7.8,46.7,2025-05-28 05:51:48
+P7043,Milk,V680,KR Market,12.9592,77.5738,Hebbal,13.0352,77.5912,Hebbal,13.0352,77.5912,Delayed,5.4,70.0,2025-05-27 23:51:48
+P1153,Apples,V596,Electronic City,12.8452,77.6604,Banashankari,12.9132,77.5736,Indiranagar,12.9719,77.6412,Spoilage Suspected,6.5,58.8,2025-05-27 03:51:48
+P3124,Tomatoes,V893,Hebbal,13.0352,77.5912,Banashankari,12.9132,77.5736,Electronic City,12.8452,77.6604,Spoilage Suspected,3.2,41.2,2025-05-27 05:51:48
+P7916,Bananas,V794,KR Market,12.9592,77.5738,Indiranagar,12.9719,77.6412,Electronic City,12.8452,77.6604,In Transit,11.0,51.5,2025-05-26 17:51:48
+P5635,Milk,V215,Whitefield,12.9698,77.7499,Electronic City,12.8452,77.6604,Whitefield,12.9698,77.7499,Spoilage Suspected,2.6,60.7,2025-05-27 03:51:48
+P4688,Tomatoes,V742,Indiranagar,12.9719,77.6412,Electronic City,12.8452,77.6604,KR Market,12.9592,77.5738,Delivered,4.5,55.7,2025-05-27 11:51:48
+P9927,Apples,V194,Hebbal,13.0352,77.5912,BTM Layout,12.9166,77.6101,BTM Layout,12.9166,77.6101,Spoilage Suspected,3.7,73.7,2025-05-27 09:51:48
+P7510,Apples,V969,Whitefield,12.9698,77.7499,Banashankari,12.9132,77.5736,BTM Layout,12.9166,77.6101,Delivered,6.2,47.5,2025-05-27 04:51:48
+P8056,Bananas,V215,Banashankari,12.9132,77.5736,Indiranagar,12.9719,77.6412,KR Market,12.9592,77.5738,Spoilage Suspected,9.5,78.1,2025-05-28 10:51:48
+P2308,Curd,V662,Banashankari,12.9132,77.5736,Indiranagar,12.9719,77.6412,Banashankari,12.9132,77.5736,In Transit,7.7,64.7,2025-05-27 15:51:48
+P5944,Paneer,V923,Banashankari,12.9132,77.5736,Electronic City,12.8452,77.6604,Electronic City,12.8452,77.6604,Delayed,8.7,80.0,2025-05-27 01:51:48
+P7692,Apples,V260,Indiranagar,12.9719,77.6412,Yeshwanthpur,13.0284,77.5407,Banashankari,12.9132,77.5736,Spoilage Suspected,2.2,73.9,2025-05-28 10:51:48
+P7514,Bananas,V927,KR Market,12.9592,77.5738,BTM Layout,12.9166,77.6101,Electronic City,12.8452,77.6604,Spoilage Suspected,10.5,50.6,2025-05-28 03:51:48
+P4187,Bananas,V571,KR Market,12.9592,77.5738,BTM Layout,12.9166,77.6101,Yeshwanthpur,13.0284,77.5407,In Transit,6.1,64.8,2025-05-26 12:51:48
+P8881,Tomatoes,V992,BTM Layout,12.9166,77.6101,Banashankari,12.9132,77.5736,Banashankari,12.9132,77.5736,In Transit,8.1,45.2,2025-05-27 21:51:48
+P4191,Curd,V511,KR Market,12.9592,77.5738,BTM Layout,12.9166,77.6101,Hebbal,13.0352,77.5912,Spoilage Suspected,6.0,43.1,2025-05-27 13:51:48
+P4849,Spinach,V587,KR Market,12.9592,77.5738,Hebbal,13.0352,77.5912,KR Market,12.9592,77.5738,Delivered,10.4,55.6,2025-05-27 01:51:48
+P6291,Spinach,V976,Hebbal,13.0352,77.5912,BTM Layout,12.9166,77.6101,KR Market,12.9592,77.5738,Delivered,10.2,52.5,2025-05-27 03:51:48
+P8144,Bananas,V791,Hebbal,13.0352,77.5912,Indiranagar,12.9719,77.6412,Indiranagar,12.9719,77.6412,Delivered,8.5,64.9,2025-05-28 00:51:48
+P6258,Apples,V392,Yeshwanthpur,13.0284,77.5407,BTM Layout,12.9166,77.6101,Whitefield,12.9698,77.7499,Spoilage Suspected,3.0,56.7,2025-05-27 05:51:48
+P5871,Spinach,V258,Banashankari,12.9132,77.5736,Whitefield,12.9698,77.7499,Indiranagar,12.9719,77.6412,Delayed,11.7,40.7,2025-05-27 01:51:48
+P4387,Tomatoes,V482,Yeshwanthpur,13.0284,77.5407,Indiranagar,12.9719,77.6412,Whitefield,12.9698,77.7499,Delivered,11.1,79.0,2025-05-26 21:51:48
+P2059,Tomatoes,V654,KR Market,12.9592,77.5738,BTM Layout,12.9166,77.6101,KR Market,12.9592,77.5738,In Transit,2.6,41.2,2025-05-27 13:51:48
+P7868,Curd,V378,Indiranagar,12.9719,77.6412,Electronic City,12.8452,77.6604,Whitefield,12.9698,77.7499,In Transit,3.6,77.3,2025-05-27 04:51:48
+P5561,Tomatoes,V545,Indiranagar,12.9719,77.6412,Whitefield,12.9698,77.7499,Hebbal,13.0352,77.5912,In Transit,5.2,67.6,2025-05-26 23:51:48
+P1590,Tomatoes,V768,BTM Layout,12.9166,77.6101,Indiranagar,12.9719,77.6412,Indiranagar,12.9719,77.6412,Spoilage Suspected,3.4,73.2,2025-05-27 04:51:48
+P1634,Curd,V476,Indiranagar,12.9719,77.6412,KR Market,12.9592,77.5738,Indiranagar,12.9719,77.6412,Delivered,9.5,76.4,2025-05-27 04:51:48
+P2259,Milk,V663,Electronic City,12.8452,77.6604,Hebbal,13.0352,77.5912,BTM Layout,12.9166,77.6101,In Transit,11.0,55.8,2025-05-26 16:51:48
+P2753,Bananas,V126,Indiranagar,12.9719,77.6412,Whitefield,12.9698,77.7499,Hebbal,13.0352,77.5912,Spoilage Suspected,7.7,54.6,2025-05-27 05:51:48
+P5419,Tomatoes,V763,KR Market,12.9592,77.5738,Indiranagar,12.9719,77.6412,KR Market,12.9592,77.5738,In Transit,5.6,44.9,2025-05-27 02:51:48
+P6148,Bananas,V514,KR Market,12.9592,77.5738,Yeshwanthpur,13.0284,77.5407,Banashankari,12.9132,77.5736,Delivered,10.5,47.4,2025-05-26 20:51:48
+P9915,Bananas,V863,Hebbal,13.0352,77.5912,Whitefield,12.9698,77.7499,KR Market,12.9592,77.5738,Delivered,4.8,68.5,2025-05-28 00:51:48
+P2787,Curd,V979,Electronic City,12.8452,77.6604,Banashankari,12.9132,77.5736,Hebbal,13.0352,77.5912,Delivered,5.2,58.2,2025-05-27 07:51:48
+P8450,Milk,V370,BTM Layout,12.9166,77.6101,Yeshwanthpur,13.0284,77.5407,Banashankari,12.9132,77.5736,Delayed,11.9,73.2,2025-05-26 18:51:48
+P7172,Tomatoes,V947,BTM Layout,12.9166,77.6101,Yeshwanthpur,13.0284,77.5407,KR Market,12.9592,77.5738,Delayed,7.3,63.3,2025-05-27 17:51:48
+P3333,Apples,V639,BTM Layout,12.9166,77.6101,Yeshwanthpur,13.0284,77.5407,Banashankari,12.9132,77.5736,Delivered,4.0,66.2,2025-05-27 11:51:48
+P2894,Spinach,V465,KR Market,12.9592,77.5738,Yeshwanthpur,13.0284,77.5407,Indiranagar,12.9719,77.6412,Spoilage Suspected,6.5,56.8,2025-05-27 13:51:48
+P2440,Curd,V974,Electronic City,12.8452,77.6604,BTM Layout,12.9166,77.6101,KR Market,12.9592,77.5738,Delivered,6.5,52.8,2025-05-27 11:51:48
+P5720,Apples,V442,KR Market,12.9592,77.5738,Indiranagar,12.9719,77.6412,KR Market,12.9592,77.5738,Delayed,9.0,54.6,2025-05-27 17:51:48
+P4502,Apples,V321,Indiranagar,12.9719,77.6412,Hebbal,13.0352,77.5912,Electronic City,12.8452,77.6604,Delayed,6.5,67.3,2025-05-26 11:51:48
+P6184,Tomatoes,V778,Hebbal,13.0352,77.5912,Yeshwanthpur,13.0284,77.5407,BTM Layout,12.9166,77.6101,Spoilage Suspected,10.1,53.9,2025-05-27 04:51:48
+P2171,Curd,V337,KR Market,12.9592,77.5738,Yeshwanthpur,13.0284,77.5407,Banashankari,12.9132,77.5736,Spoilage Suspected,8.7,44.9,2025-05-26 21:51:48
+P8304,Tomatoes,V736,Yeshwanthpur,13.0284,77.5407,Indiranagar,12.9719,77.6412,Yeshwanthpur,13.0284,77.5407,Spoilage Suspected,2.6,44.4,2025-05-28 10:51:48
+P5711,Spinach,V271,Indiranagar,12.9719,77.6412,Banashankari,12.9132,77.5736,KR Market,12.9592,77.5738,Spoilage Suspected,11.3,54.1,2025-05-27 20:51:48
